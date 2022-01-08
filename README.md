@@ -58,7 +58,7 @@ def max_marks(list1):
 ## Output:
 ![output](https://github.com/ragulmani936/FindMaximum/blob/main/Screenshot%20(39).png?raw=true)
 ![output](https://github.com/ragulmani936/FindMaximum/blob/main/Screenshot%20(40).png?raw=true)
-![output](
+![output](https://github.com/ragulmani936/FindMaximum/blob/main/Screenshot%20(41).png?raw=true)
 
 
 
